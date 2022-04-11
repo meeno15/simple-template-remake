@@ -1,0 +1,51 @@
+* {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.header-content {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  position: sticky;
+  padding-bottom: 50px;
+}
+.menu-bar {
+  padding-top: 30px;
+}
+.searchbar {
+  padding-top: 30px;
+}
+.top {
+  border-radius: 45%;
+	box-shadow: 0 0 70px #dae4ef;
+  padding: 11px;
+}
+
+.customise-logo {
+  border-radius: 55%;
+	box-shadow: 0 0 65px #dae4ef;
+  height: 230px;
+  width: 230px;
+  margin-top: -80px;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.mylogo .logoT {
+	color: #43a9ff;
+	font-size: 38px;
+	text-transform: uppercase;
+  text-align: center;
+  padding-top: 80px;
+}
+.mylogo .logoM {
+	color: #e9ebec;
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: uppercase;
+  text-align: center;
+}

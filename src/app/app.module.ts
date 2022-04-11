@@ -3,14 +3,14 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { HeaderComponent } from './header/header.component';
-import { MyBodyComponent } from './my-body/my-body.component';
+import { CriosRemakeComponent } from './crios-remake/crios-remake.component';
+import { CriosRemakeBodyComponent } from './crios-remake-body/crios-remake-body.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    HeaderComponent,
-    MyBodyComponent
+    CriosRemakeComponent,
+    CriosRemakeBodyComponent
   ],
   imports: [
     BrowserModule,
