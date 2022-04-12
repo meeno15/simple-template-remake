@@ -120,49 +120,30 @@ p {
     display: inline;
   }
 }
-/*
-.sets {
-  overflow: hidden;
-  position: relative;
+.container-profile img {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  border-color: white;
 }
-.snowq {
-  left: 20px;
-  top: -100px;
-  position: absolute;
-  z-index: -1;
-}
-.snoww {
-  bottom: -190px;
-  right: -120px;
-  position: absolute;
-  z-index: -1;
-}
-.app1 {
-  padding-top: 150px;
-  padding-bottom: 180px;
-  padding-left: 23%;
+.fit img {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  border-color: white;
+  overflow: scroll;
+  border: 1px solid white ;
 }
 
-.first, .second {
-  display: flex;
-  z-index: 2;
-  clear: both;
-  width: 100%;
-}
-.app-about {
- align-self: center;
 
-}
-.chat-app {
-  padding-top: 0;
-  padding-right: 23%;
-  padding-bottom: 180px;
-  padding-left: 23%;
-}
-.chat-app img {
-  width: 100%;
-}
-*/
+
+
+
+
+
+
 
 .final img {
   background-position: center bottom;
